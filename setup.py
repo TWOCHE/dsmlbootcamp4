@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name= "dsmlbootcamp4",
-                 version="0.0.2",
+                 version="0.0.3",
                  license="MIT",
                  author="Tugce Dogan",
                  author_mail="tugcedogann@gmail.com",

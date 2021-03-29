@@ -19,3 +19,14 @@ reset:
 	git reset
 
 compush: commit push
+
+
+####################
+# PYPI
+####################
+
+sdist:
+	python setup.py sdist
+
+upload:
+	twine upload dist/*
