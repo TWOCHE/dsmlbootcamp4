@@ -1,11 +1,12 @@
 import setuptools
 
 setuptools.setup(name= "dsmlbootcamp4",
-                 version="0.0.1",
+                 version="0.0.2",
                  license="MIT",
                  author="Tugce Dogan",
                  author_mail="tugcedogann@gmail.com",
                  description="Data Science Tools",
+                 url="https://github.com/TWOCHE/dsmlbootcamp4"
                  keywords=["data science","machine learning", "bootcamp"],
                  classifiers=[
                      "Development Status :: 4 - Beta",
