@@ -6,7 +6,7 @@ setuptools.setup(name= "dsmlbootcamp4",
                  author="Tugce Dogan",
                  author_mail="tugcedogann@gmail.com",
                  description="Data Science Tools",
-                 url="https://github.com/TWOCHE/dsmlbootcamp4"
+                 url="https://github.com/TWOCHE/dsmlbootcamp4",
                  keywords=["data science","machine learning", "bootcamp"],
                  classifiers=[
                      "Development Status :: 4 - Beta",
