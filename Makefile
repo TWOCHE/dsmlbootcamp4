@@ -30,3 +30,5 @@ sdist:
 
 upload:
 	twine upload dist/*
+
+pypi: sdist upload
